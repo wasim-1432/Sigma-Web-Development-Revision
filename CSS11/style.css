@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    text-decoration: red wavy underline;
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: start;
+    text-decoration: pink line-through;
+}
+
+p {
+    font-weight: 400;
+    line-height: 2.4;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    font-weight: 800;
+    text-decoration: blue double overline;
+}
+
+a {
+    text-decoration: none;
+}
