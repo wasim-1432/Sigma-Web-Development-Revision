@@ -1,0 +1,28 @@
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(222, 162, 10);
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+.first {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    display: inline-block;
+    margin-left: 102px;
+    margin-top: 86px;
+    border-radius: 50%;
+}
+
+.second {
+    height: 50px;
+    width: 161px;
+    background-color: rgba(136, 3, 3, 0.484);
+    margin-top: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-left: 125px;
+    margin-top: 85px;
+}
