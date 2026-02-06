@@ -1,0 +1,38 @@
+.first_div {
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.second_div {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 9px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.third_div {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 9px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-top: 62px;
+    margin-left: -1px;
+}
+
+.forth_div {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 9px;
+    background-color: green;
+    border-radius: 50%;
+    margin-top: 62px;
+    margin-left: -1px;
+}
