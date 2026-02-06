@@ -1,0 +1,21 @@
+div {
+    width: 400px;
+    height: 200px;
+    background-color: #7aa874;
+    margin: 10px auto;
+    background-image: url("image.png");
+    background-size: cover;
+    border-radius: 23px;
+    transition: 2s;
+}
+
+h1 {
+    color: rgb(99, 86, 0);
+    text-align: center;
+}
+
+div:hover {
+    background-image: url("chicken.png");
+    background-size: cover;
+    border-radius: 23px;
+}
