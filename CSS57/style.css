@@ -1,0 +1,25 @@
+.card {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border-style: none;
+    background-color: rgb(130, 130, 218);
+    margin: 10px;
+    box-shadow: 2px 2px 8px black;
+}
+
+img {
+    width: 50%;
+    background-color: blueviolet;
+    border-radius: 5px 5px 0 0;
+}
+
+.card:hover {
+    box-shadow: 10px 10px 200px rgb(0, 0, 0);
+    transform: translateY(10px);
+    border-color: blueviolet;
+}
