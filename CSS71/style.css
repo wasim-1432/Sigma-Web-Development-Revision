@@ -1,0 +1,18 @@
+.container {
+    height: 50px;
+    width: 900px;
+    background-color: pink;
+    border: 2px solid rgb(13, 86, 221);
+    display: flex;
+    border-radius: 10px;
+}
+
+.first {
+    height: 50px;
+    width: 80px;
+    /* margin: 10px; */
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 24px;
+    align-self: center;
+}
